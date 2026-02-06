@@ -15,7 +15,7 @@ GitHub is where developers live. We want to meet you here with information relev
 **Tech Stack:**
 
 - Next.js, React, TypeScript
-- Modern web infrastructure (Nx monorepo, WorkOS)
+- Modern web infrastructure (Nx monorepo, Vercel, WorkOS)
 
 ## Engineering Culture
 
